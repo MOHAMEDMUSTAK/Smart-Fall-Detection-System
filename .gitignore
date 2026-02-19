@@ -1,0 +1,6 @@
+dataset/
+alerts/
+fall_model.pth
+__pycache__/
+*.pyc
+venv/
