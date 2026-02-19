@@ -1,5 +1,4 @@
 # Smart Fall Detection System
-
 AI-Powered Real-Time Fall Detection using Deep Learning and Computer Vision.
 
 ---
